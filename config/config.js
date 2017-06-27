@@ -1,5 +1,5 @@
 var fauxGhostConfig = {
-    "site_url": "",
+    "site_url": "gardonvariety.com",
     "google_fonts_family": "Open+Sans:400,400italic,700,700italic",
     "google_analytics_tracking_id": "",
     "disqus_shortname": "",
@@ -8,15 +8,13 @@ var fauxGhostConfig = {
     "show_published_by_ghost": "true",
     "email":
     {
-      "address": "email@address",
-      "name": "Send Email"
+      "address": "benbwgardon@gmail.com",
+      "name": "Ben Gardon"
     },
     "rss": "true",
     "sharing":
     {
       "twitter": "true",
-      "facebook": "true",
-      "googlePlus": "true"
     },
     "socialLinks":
     [
